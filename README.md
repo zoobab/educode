@@ -16,16 +16,16 @@ Slides
 
 ## HSBXL and Norbert
 ![01-norbert.png](01-norbert.png)
-## openap, my first expensive linux router
-![01-openap.png](01-openap.png)
-## openap, 4mb of flash and 1mb ram
-![02-openap4mb.jpg](02-openap4mb.jpg)
-## isl3893, uClinux routers
-![03-isl3893.jpg](03-isl3893.jpg)
-## wrt54g and the web exploit
-![03-wrt54g-web-exploit.jpg](03-wrt54g-web-exploit.jpg)
-## Pieter Hintjens, best friend and ZeroMQ master
-![04-pietercat.jpg](04-pietercat.jpg)
+## HSBXL
+![02-hsbxl.jpg](02-hsbxl.jpg)
+## Electronics
+![03-electronics.jpg](03-electronics.jpg)
+## Scanbot
+![04-01scanbot.jpg](04-01scanbot.jpg)
+## Learn by doing
+![04-03learnbydoing.jpg](04-03learnbydoing.jpg)
+## Learning pyramid
+![05-learningpyramid.gif](05-learningpyramid.gif)
 ## Samsung Chord SDK and ZeroMQ
 ![05-samsung-chord.jpg](05-samsung-chord.jpg)
 ## ZeroMQ, the lightweight messaging library
